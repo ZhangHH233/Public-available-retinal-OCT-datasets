@@ -28,3 +28,44 @@
 注：(1)缩写：H.:健康；G.:青光眼；POAG:原发性开角型青光眼；AMD：年龄相关性黄斑病变；nAMD：新生血管性AMD；CNV：脉络膜新生血管；DR：糖尿病视网膜病变；DME：糖尿病性黄斑水肿；MH：黄斑裂孔；Drusen：玻璃膜疣；MS：多发性硬化症；（2）补充说明：“-”表示数据提供方未提供该项参数。
 
 (数据集详细信息与下载链接整理中）
+
+下载地址整理版本v1:
+数据集名称	下载地址
+DUKE-AMD	http://www.duke.edu/ sf59/Chiu_IOVS_2011_dataset.htm
+
+DUKE-WLOA AMD	http:// people.duke.edu/wsf59/RPEDC_Ophth_2013_dataset.htm
+
+DUKE-DME/AMD	http://www.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm.
+
+DUKE-Cyst DME	www.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm.
+
+SPIE	https://www.kaggle.com/datasets/kmader/eye-oct-datasets
+
+MIAMI	https://www.ebi.ac.uk/biostudies/europepmc/studies/S-EPMC5025289
+
+Multivendor/ OPTIMA	https://optima.meduniwien.ac.at/optima-segmentation-challenge-1/
+
+HC-MS	http://iacl.jhu.edu/Resources
+
+Cell	https://data.mendeley.com/datasets/rscbjbr9sj/3
+
+BIOMISA	http://biomisa.org/contact.html.
+
+AI-challenge	https://github.com/AIChallenger/AI_Challenger_2018
+
+RETOUCH	https://retouch.grandchallenge.org
+
+Isfahan MISP	-
+
+OCTID	https://dataverse.scholarsportal.info/dataverse/OCTID
+
+RAJA-Glucoma	https://data.mendeley.com/datasets/2rnnz5nz74/2
+
+AROI	https://ipg.fer.hr/ipg/resources/oct_image_database
+
+OCTA-500	https://ieee-dataport.org/open-access/octa-500
+
+GOALS	https://aistudio.baidu.com/aistudio/competition/detail/230
+
+ORC SS-OCT	https://data.mendeley.com/datasets/bzsc7gd9p3/2
+
