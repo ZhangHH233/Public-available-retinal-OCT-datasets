@@ -50,7 +50,8 @@ HC-MS	http://iacl.jhu.edu/Resources
 
 Cell	https://data.mendeley.com/datasets/rscbjbr9sj/3
 
-BIOMISA	http://biomisa.org/contact.html.
+BIOMISA	http://biomisa.org/contact.html. / 
+        http://biomisa.org/index.php/glaucoma-fundus-oct-dataset/
 
 AI-challenge	https://github.com/AIChallenger/AI_Challenger_2018
 
