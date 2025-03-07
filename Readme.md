@@ -1,6 +1,6 @@
 眼底OCT公开数据集信息汇总（Public available retinal OCT datasets）
 
-|      Dataset 数据集      |                  Volume 数据量                  |                 Disease 病理                  | Download Link 下载链接                                |
+|      Dataset  数据集      |                  Volume 数据量                  |                 Disease 病理             | Download Link 下载链接                  |
 |:----------------:|:-----------------------------------------:|:--------------------------------------:|:--------------------------------------:|
 |     DUKE-AMD     |                 20 volumes                |                 20 AMD                 |http://www.duke.edu/ sf59/Chiu_IOVS_2011_dataset.htm|
 |    DUKE-WLOA     |               38800 B-scans               |             269 AMD; 115 H.            |http:// people.duke.edu/wsf59/RPEDC_Ophth_2013_dataset.htm|
