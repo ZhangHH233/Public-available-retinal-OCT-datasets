@@ -24,12 +24,13 @@
 | Retinal OCT - C8 |               24000 B-scans               | AMD、CNV、CSR、DME、DR、Drusen、MH、H. | ...|
 |       GOALS      |                300 B-scans                |           53 H ., 13 Glaucoma          | https://aistudio.baidu.com/aistudio/competition/detail/230|
 |    ORC SS-OCT    |                 4 volumes                 |                  4 RRD                 | https://data.mendeley.com/datasets/bzsc7gd9p3/2|
-
+| OCTDL| 2000   B-Scans| 1231 AMD; 147 DME; 155 EM; 332 Normal; 22 RAO; 101 RVO; 76 Vitreomacular Interface Disease| https://data.mendeley.com/datasets/sncdhf53xc/4|
+| HD-OCT MH| 2658 B-scans | 493 MH | https://www.kaggle.com/datasets/mathieugodbout/oct-postsurgery-visual-improvement|
 注：(1)缩写：H.:健康；G.:青光眼；POAG:原发性开角型青光眼；AMD：年龄相关性黄斑病变；nAMD：新生血管性AMD；CNV：脉络膜新生血管；DR：糖尿病视网膜病变；DME：糖尿病性黄斑水肿；MH：黄斑裂孔；Drusen：玻璃膜疣；MS：多发性硬化症；
 （2）补充说明：“-”表示数据提供方未提供该项参数。
 
 Notation:
-（1）Abbreviations: H.: Health; G.: Glaucoma; POAG: Primary Open-Angle Glaucoma; AMD: Age-Related Macular Degeneration; nAMD: Neovascular AMD; CNV: Choroidal Neovascularization; DR: Diabetic Retinopathy; DME: Diabetic Macular Edema; MH: Macular Hole; Drusen: Drusen; MS: Multiple Sclerosis;
+（1）Abbreviations: H.: Health; G.: Glaucoma; POAG: Primary Open-Angle Glaucoma; AMD: Age-Related Macular Degeneration; nAMD: Neovascular AMD; CNV: Choroidal Neovascularization; DR: Diabetic Retinopathy; DME: Diabetic Macular Edema; MH: Macular Hole; Drusen: Drusen; MS: Multiple Sclerosis; EM: Epiretinal Membrane; RAO: Retinal Artery Occlusion; RVO: Retinal Vein Occlusione'
 (2) Supplementary Explanation: “-” indicates that the data provider did not provide this parameter.
 
 
