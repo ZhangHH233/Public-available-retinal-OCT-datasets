@@ -35,7 +35,7 @@
 预处理代码见 https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main。
 
 欢迎引用综述论文：
-'''
+'''bibtex
 @article{ZHANG2025102539,
 title = {Retinal OCT image segmentation with deep learning: A review of advances, datasets, and evaluation metrics}, 
 journal = {Computerized Medical Imaging and Graphics}, 
