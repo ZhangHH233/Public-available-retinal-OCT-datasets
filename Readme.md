@@ -35,6 +35,7 @@
 预处理代码见 https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main。
 
 欢迎引用综述论文：
+'''
 @article{ZHANG2025102539,
 title = {Retinal OCT image segmentation with deep learning: A review of advances, datasets, and evaluation metrics}, 
 journal = {Computerized Medical Imaging and Graphics}, 
@@ -44,7 +45,7 @@ year = {2025},
 issn = {0895-6111}, 
 doi = {https://doi.org/10.1016/j.compmedimag.2025.102539}  , 
 author = {Huihong Zhang and Bing Yang and Sanqian Li and Xiaoqing Zhang and Xiaoling Li and Tianhang Liu and Risa Higashita and Jiang Liu} }
-
+'''
 
 Notation:
 （1）Abbreviations: H.: Health; G.: Glaucoma; POAG: Primary Open-Angle Glaucoma; AMD: Age-Related Macular Degeneration; nAMD: Neovascular AMD; CNV: Choroidal Neovascularization; DR: Diabetic Retinopathy; DME: Diabetic Macular Edema; MH: Macular Hole; Drusen: Drusen; MS: Multiple Sclerosis; EM: Epiretinal Membrane; RAO: Retinal Artery Occlusion; RVO: Retinal Vein Occlusione'
