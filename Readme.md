@@ -34,6 +34,12 @@
 
 预处理代码见 https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main。
 
+Notation:
+（1）Abbreviations: H.: Health; G.: Glaucoma; POAG: Primary Open-Angle Glaucoma; AMD: Age-Related Macular Degeneration; nAMD: Neovascular AMD; CNV: Choroidal Neovascularization; DR: Diabetic Retinopathy; DME: Diabetic Macular Edema; MH: Macular Hole; Drusen: Drusen; MS: Multiple Sclerosis; EM: Epiretinal Membrane; RAO: Retinal Artery Occlusion; RVO: Retinal Vein Occlusione'
+(2) Supplementary Explanation: “-” indicates that the data provider did not provide this parameter.
+
+Pre-processing code in https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main.
+
 欢迎引用综述论文：
 ```bibtex
 @article{zhang2025retinal,
@@ -46,11 +52,6 @@
 } ```
 
 
-Notation:
-（1）Abbreviations: H.: Health; G.: Glaucoma; POAG: Primary Open-Angle Glaucoma; AMD: Age-Related Macular Degeneration; nAMD: Neovascular AMD; CNV: Choroidal Neovascularization; DR: Diabetic Retinopathy; DME: Diabetic Macular Edema; MH: Macular Hole; Drusen: Drusen; MS: Multiple Sclerosis; EM: Epiretinal Membrane; RAO: Retinal Artery Occlusion; RVO: Retinal Vein Occlusione'
-(2) Supplementary Explanation: “-” indicates that the data provider did not provide this parameter.
-
-Pre-processing code in https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main.
 
 
 
