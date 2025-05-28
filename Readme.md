@@ -1,3 +1,5 @@
+眼底OCT公开数据集和预处理代码。项目持续更新中……
+
 眼底OCT公开数据集信息汇总（Public available retinal OCT datasets）
 
 |      Dataset  数据集      |                  Volume 数据量                  |                 Disease 病理             | Download Link 下载链接                  |
