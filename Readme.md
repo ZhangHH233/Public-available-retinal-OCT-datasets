@@ -34,13 +34,13 @@
 注：(1)缩写：H.:健康；G.:青光眼；POAG:原发性开角型青光眼；AMD：年龄相关性黄斑病变；nAMD：新生血管性AMD；CNV：脉络膜新生血管；DR：糖尿病视网膜病变；DME：糖尿病性黄斑水肿；MH：黄斑裂孔；Drusen：玻璃膜疣；MS：多发性硬化症；
 （2）补充说明：“-”表示数据提供方未提供该项参数。
 
-预处理代码见 https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main。
+
 
 Notation:
 （1）Abbreviations: H.: Health; G.: Glaucoma; POAG: Primary Open-Angle Glaucoma; AMD: Age-Related Macular Degeneration; nAMD: Neovascular AMD; CNV: Choroidal Neovascularization; DR: Diabetic Retinopathy; DME: Diabetic Macular Edema; MH: Macular Hole; Drusen: Drusen; MS: Multiple Sclerosis; EM: Epiretinal Membrane; RAO: Retinal Artery Occlusion; RVO: Retinal Vein Occlusione'
 (2) Supplementary Explanation: “-” indicates that the data provider did not provide this parameter.
 
-Pre-processing code in https://github.com/ZhangHH233/OCT_Public_dataset_preprocess/tree/main.
+
 
 欢迎引用综述论文：
 ```bibtex
